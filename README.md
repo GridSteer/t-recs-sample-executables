@@ -8,6 +8,7 @@ to run T-RECS.
 
 ## Install
 
+The sample executables with T-RECS have been tested on Ubuntu 18.04 LTS.
 TODO
 
 ## Usage
