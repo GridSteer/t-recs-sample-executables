@@ -4,8 +4,7 @@
 # (c) 2018 GridSteer
 # Author: 	Elias Le Boudec, elias.leboudec(at)epfl.ch
 # Date:		27 June 2018
-# Abstract: Use this script to move the required files to the
-#			T-RECS installation directory
+# Abstract: Use this script to move the required files to the T-RECS installation directory
 #
 # USAGE
 # Run this script from the t-recs-sample-executables dir
@@ -19,7 +18,7 @@ if [ -z "$1" ]
 then
     echo "T-RECS Sample Executables Install Script
 USAGE:
-Run this script from the t-recs-sample-executables dir
+Run this script from the t-recs-sample-executables directory
 
 SYNTAX:
 ./INSTALL.sh install_path
