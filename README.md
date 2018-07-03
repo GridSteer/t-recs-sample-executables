@@ -3,8 +3,8 @@
 ## Introduction
 
 T-RECS is a software testbed for multi-agent real-time control of
-electric grids. This project contains some *sample* executables that are needed
-to run T-RECS.
+electric grids. This project contains some *sample* executables that you can
+use with T-RECS.
 
 ## Install
 
