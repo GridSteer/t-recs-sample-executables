@@ -41,13 +41,14 @@ fi
 	cp ucpv1_ra/* $TRecsDir/sample/agent/ucpv1_ra/
 	cp ugrid_ga/* $TRecsDir/sample/agent/ugrid_ga/
 
-	echo "Done copying all executables."
-
 } || { # catch
 	
 	echo "ERROR: Could not move executables to T-RECS directory.
 Make sure you are running the script from the t-recs-sample-executables directory and that it contains the executables."
+	exit
 }
+
+echo "Successfully copied the executables to the T-RECS directory."
 
 
 
